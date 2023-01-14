@@ -1,13 +1,8 @@
-# Sample Hardhat Project
+# My first experience with smart contracts and Solidity
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+This is a crash course project from YouTube and this is backend for Krypt
 
-Try running some of the following tasks:
+See how it works on https://gunkaartur.github.io/krypt_ui/index.html
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+What the app can do:
+Send ETH through Goerly test ethereum network from one adress to another and show the transaction history 
